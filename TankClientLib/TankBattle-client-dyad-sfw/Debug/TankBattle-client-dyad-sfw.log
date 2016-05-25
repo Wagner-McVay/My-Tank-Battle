@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-client-dyad-sfw\autoagent.h(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-client-dyad-sfw\main.cpp(131): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+sfw.lib(gl_core_4_4.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(gl_core_4_4.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\nsfw2draw.pdb'; linking object as if no debug info
+sfw.lib(crenderutils.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(crenderutils.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\nsfw2draw.pdb'; linking object as if no debug info
+sfw.lib(sfwdraw.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(sfwdraw.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\nsfw2draw.pdb'; linking object as if no debug info
+sfw.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(wgl_context.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(winmm_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(winmm_joystick.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(win32_window.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(win32_tls.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(win32_time.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(win32_monitor.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(win32_init.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(window.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(monitor.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(input.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(init.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+sfw.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'sfw.lib(context.obj)' or at 'C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\glfw.pdb'; linking object as if no debug info
+  TankBattle-client-dyad-sfw.vcxproj -> C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\TankBattle-client-dyad-sfw.exe

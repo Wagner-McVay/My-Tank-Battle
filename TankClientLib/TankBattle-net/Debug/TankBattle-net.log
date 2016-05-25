@@ -1,0 +1,7 @@
+﻿  TankBattleNet.cpp
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-net\tankbattlenet.cpp(122): warning C4551: function call missing argument list
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-net\tankbattlenet.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-net\tankbattlenet.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-net\tankbattlenet.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\reilly.mcvay\documents\github\tankbattle\tankclientlib\tankbattle-net\tankbattlenet.cpp(89): warning C4715: 'tankNet::init': not all control paths return a value
+  TankBattle-net.vcxproj -> C:\Users\reilly.mcvay\Documents\GitHub\TankBattle\TankClientLib\Debug\TankBattle-net.lib
